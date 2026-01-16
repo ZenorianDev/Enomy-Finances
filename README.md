@@ -5,6 +5,8 @@ Enomy-Finances is a web-based system developed by Phonyt Digital Solutions (PDS)
 staff and clients manage currency conversion, savings, and investment planning.
 </p>
 
+<img src="src/main/resources/static/images/enomy-finance.gif" alt="enomyfinances" width="600">
+
 <br>
 
 <h2>Project Description</h2>
