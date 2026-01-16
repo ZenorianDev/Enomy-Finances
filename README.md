@@ -57,8 +57,8 @@ efficient, secure, and easy-to-use platform for financial planning and currency 
 
 <ul>
     <li>HTML, CSS, JavaScript</li>
-    <li>Backend framework (e.g., Node.js, Django – depending on implementation)</li>
-    <li>Database (e.g., MySQL, MongoDB)</li>
+    <li>Backend framework (Java)</li>
+    <li>Database (MySQL)</li>
 </ul>
 
 <br>
