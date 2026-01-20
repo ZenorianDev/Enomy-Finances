@@ -56,8 +56,8 @@ efficient, secure, and easy-to-use platform for financial planning and currency 
 <h2>Technologies Used</h2>
 
 <ul>
-    <li>HTML, Tailwind CSS</li>
-    <li>Backend framework (Java)</li>
+    <li>Thymeleaf, HTML, Tailwind CSS</li>
+    <li>Backend framework (Java, Spring)</li>
     <li>Database (MySQL)</li>
     <li>IDE (Eclipse)</li>
 </ul>
