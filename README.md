@@ -39,7 +39,7 @@ To clone this project, use the following command:
 </p>
 
 <p>
-<code>git clone https://github.com/yourusername/Enomy-Finances.git</code>
+<code>git clone https://github.com/ZenorianDev/Enomy-Finances.git</code>
 </p>
 
 <br>
